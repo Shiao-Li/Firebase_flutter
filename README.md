@@ -24,16 +24,16 @@
 
 # 5 sitios turísticos tomando los datos de la firebase
 
-- Landing page
+# Landing page
 ![image](https://github.com/Shiao-Li/Firebase_flutter/assets/117754026/b03905ae-be09-4196-80a5-a0a62f04d2a3)
 
-- Login
+# Login
 ![image](https://github.com/Shiao-Li/Firebase_flutter/assets/117754026/0b900ff2-7503-4d6d-8709-b3c7b6a91ffe)
 
-- Home page
+# Home page
 ![image](https://github.com/Shiao-Li/Firebase_flutter/assets/117754026/7141acf9-e55e-47a9-a6de-10c8797fc4fe)
 
-- Sitios turisticos desde firebase
+# Sitios turisticos desde firebase
 
 ![image](https://github.com/Shiao-Li/Firebase_flutter/assets/117754026/a48edfe1-c63e-4500-be2b-e07c6c75a559)
 
