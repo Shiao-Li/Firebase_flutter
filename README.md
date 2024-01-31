@@ -35,5 +35,6 @@
 
 # Sitios turisticos desde firebase
 
-![image](https://github.com/Shiao-Li/Firebase_flutter/assets/117754026/a48edfe1-c63e-4500-be2b-e07c6c75a559)
+![image](https://github.com/Shiao-Li/Firebase_flutter/assets/117754026/9da58c93-8c78-49f4-b560-8f6ab5dc2ce0)
+
 
